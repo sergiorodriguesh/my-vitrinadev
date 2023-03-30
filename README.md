@@ -10,7 +10,7 @@ Esse é um projeto para voce criar edificios, conseguindo também adicionar apar
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://file:///C:/Users/Sergio/Pictures/Screenshots/Captura%20de%20Tela%20(229).png#vitrinedev)
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
