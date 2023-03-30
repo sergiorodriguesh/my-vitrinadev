@@ -7,7 +7,7 @@ Esse é um projeto para voce criar edificios, conseguindo também adicionar apar
 | :sparkles: Nome        | Edificios Procopense
 | :label: Tecnologias | ReactJs, html, css e javascript
 | :rocket: URL         | https://edificios-procopense.vercel.app/
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :fire: Desafio     | https://www.alura.com.br/challenges/front-end-6
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
