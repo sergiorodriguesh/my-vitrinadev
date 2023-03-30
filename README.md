@@ -1,12 +1,12 @@
-# Nome do meu projeto
+# Edificios Procopense
 
-Rápida descrição do objetivo de fazer esse projeto
+Esse é um projeto para voce criar edificios, conseguindo também adicionar apartamentos a esse edificio, colocar uma imagem, tenha acesso a preço dos apartamentos, quem está morando no apartamento, alugar apartamento, etc..
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :sparkles: Nome        | Edificios Procopense
+| :label: Tecnologias | ReactJs, html, css e javascript
+| :rocket: URL         | https://edificios-procopense.vercel.app/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
